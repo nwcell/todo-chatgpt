@@ -1,3 +1,8 @@
+# ChatGPT Todo App
+
+On a lark, I decided to make a todo app w/ chatGPT.  It was a suprisingly easy process.  The only issue I ran into was the readme file, because the interface automatically encodes markdown.
+
+
 # Todo App with FastAPI and React
 
 This project is a simple todo app that demonstrates how to build a backend API with FastAPI and a frontend UI with React. The API allows for creating, retrieving, updating, and deleting tasks, and the UI provides a way to interact with these API endpoints.
